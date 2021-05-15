@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+dataset/*
+dataset_kue_test_2/*
+model/*
+validation/*
